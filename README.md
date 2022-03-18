@@ -1,4 +1,4 @@
-# Project 2 - *Name of App Here*
+# Project 2 - *Simple Tweet*
 
 **Name of your app** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/0GhOsTO/SimpleTweet_2/blob/master/CP-1.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
